@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_calendar"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_calendar" />
+
+    <item
+        android:id="@+id/navigation_moodle"
+        android:icon="@drawable/ic_school_black_24dp"
+        android:title="@string/title_moodle" />
+
+    <item
+        android:id="@+id/navigation_lsf"
+        android:icon="@drawable/ic_computer_black_24dp"
+        android:title="@string/title_lsf" />
+
+    <item
+        android:id="@+id/navigation_mail"
+        android:icon="@drawable/ic_email_black_24dp"
+        android:title="@string/title_mail" />
+
+    <item
+        android:id="@+id/navigation_mensa"
+        android:icon="@drawable/ic_restaurant_menu_black_24dp"
+        android:title="@string/title_mensa" />
+
+</menu>

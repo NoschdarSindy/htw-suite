@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HTW Suite</string>
+    <string name="title_home">Home</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_moodle">Moodle</string>
+    <string name="title_lsf">LSF</string>
+    <string name="title_mail">Mail</string>
+    <string name="title_mensa">Mensa</string>
+</resources>
